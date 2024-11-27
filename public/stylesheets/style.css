@@ -1,0 +1,43 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+header {
+  background-color: #dff0de;
+  padding: 16px 0;
+  text-align: center;
+}
+
+header h1 {
+  
+  color: black;
+  font-size: 40px;
+  font-weight: 100;
+  display: inline-block;
+  position: relative;
+
+  margin-left: 10px;
+}
+
+footer {
+  background-color: #dff0de;
+  clear: both;
+  color: green;
+  text-align: center;
+  padding: 5px 0;
+  margin-top: 20px;
+}
+
+body {
+  font-family: "Open Sans";
+  font-size: 20px;
+  line-height: 20px;
+  background-color: #F7F7F7;
+}
+
+.h2 {
+  color: darkred;
+  font-size: 40px;
+  text-align: center;
+}
